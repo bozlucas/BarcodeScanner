@@ -72,6 +72,7 @@
 			isa = PBXGroup;
 			children = (
 				A0B75E7529B7CF2900B14DDD /* BarcodeScanner */,
+				A0635C5529B92BAA00AA82A5 /* README.md */,
 				A0B75E7429B7CF2900B14DDD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -92,7 +93,6 @@
 				A0635C5229B92B2500AA82A5 /* Views */,
 				A0B75E7A29B7CF2A00B14DDD /* Assets.xcassets */,
 				A0B75E7C29B7CF2A00B14DDD /* Preview Content */,
-				A0635C5529B92BAA00AA82A5 /* README.md */,
 			);
 			path = BarcodeScanner;
 			sourceTree = "<group>";
