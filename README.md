@@ -38,7 +38,7 @@ The app follows the MVVM (Model-View-ViewModel) design pattern. The main compone
 
 The app integrates with UIKit to access the camera and scan the barcode. This is done by creating a UIViewRepresentable that wraps a UIView subclass that uses AVFoundation to capture and process the video frames from the camera. The UIViewRepresentable conforms to the UIViewControllerRepresentable protocol to handle the view controller lifecycle events.
 
-##Code Structure
+## Code Structure
 
 The code is organized into the following folders:
 
